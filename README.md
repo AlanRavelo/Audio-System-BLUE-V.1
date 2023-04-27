@@ -1,5 +1,6 @@
-# Audio-System-BD3491---TPA3116
-Audio System BD3491 - TPA3116
+# Audio-System-BLUE
+
+El objetivo es conmutar las señales de audio -digitales y analógicas- utilizando el procesador BD3491 de ROHM.
 
 <img width="540" alt="96" src="https://user-images.githubusercontent.com/88397949/234874000-896f0dde-0ec1-404b-832b-97a1343dedbc.png">
 
