@@ -2,9 +2,7 @@
 
 *En desarrollo
 
-El objetivo es conmutar las señales de audio -digitales y analógicas- utilizando el procesador BD3491 de ROHM. 
-Para lograr controlar este procesador se utiliza el microcontrolador atmega8 que, previa programacíon del mismo, se ejecutan los comandos del procesador que 
-se presentan en la siguiente hoja de datos: [BD3491FS](https://fscdn.rohm.com/en/products/databook/datasheet/ic/audio_video/audio_processor/bd3491fs-e.pdf)
+The objective is to switch audio signals -digital and analog- using the ROHM BD3491 processor. To control this processor, the Atmega8 microcontroller is used, which, after programming, executes the commands of the processor that are presented in the following datasheet: [BD3491FS](https://fscdn.rohm.com/en/products/databook/datasheet/ic/audio_video/audio_processor/bd3491fs-e.pdf)
 
 
 <img width="660" alt="196" src="https://user-images.githubusercontent.com/88397949/234874000-896f0dde-0ec1-404b-832b-97a1343dedbc.png">
