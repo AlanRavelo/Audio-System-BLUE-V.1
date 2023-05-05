@@ -11,7 +11,8 @@ se presentan en la siguiente hoja de datos: [BD3491FS](https://fscdn.rohm.com/en
 
 <img width="660" alt="197" src="https://user-images.githubusercontent.com/88397949/234874053-19dbc0df-73c7-4c8c-8d16-5381bbb57cfe.png">
 
-<img width="660" alt="199" src="https://user-images.githubusercontent.com/88397949/236574279-f6779a70-d1db-4a73-a951-b42842ffb1bc.png>
+<img width="581" alt="Prototipo_4_BLUETOOTH_20230404nh" src="https://user-images.githubusercontent.com/88397949/236575261-8743839c-5d4a-40f0-ba3b-5cfbc6b75d04.png">
+
 
 
 
